@@ -1,4 +1,4 @@
-# Всем привет, меня зовут Таня <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Всем привет, меня зовут Таня <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 
 <p>💪 Я - начинающий фронтенд-разработчик, который ушел из HR и с нуля освоил новую профессию в IT</p>
