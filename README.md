@@ -21,7 +21,18 @@
 - telegram: @snurnisyan
 - email: snurnisyan@gmail.com
 
+-----
+  <table>
+    <thead><h3>📊 Моя статистика:</h3></thead>
+    <tr>
+      <th><img src="https://github-readme-stats.vercel.app/api?username=snurnisyan&count_private=true&show_icons=true&theme=radical"
+    alt="snurnisyan" 
+    /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snurnisyan&layout=compact&theme=radical" alt="lang-stats" /></th>
+    </tr>
+  </table>
 <!---
+
 snurnisyan/snurnisyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
